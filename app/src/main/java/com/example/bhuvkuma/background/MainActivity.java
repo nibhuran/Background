@@ -16,7 +16,7 @@ import android.view.ViewGroup;
 import android.widget.Toast;
 import android.widget.ToggleButton;
 
-//Just testing
+//Version 0
 public class MainActivity extends ActionBarActivity implements View.OnClickListener{
 
     @Override
